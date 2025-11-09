@@ -1,0 +1,2 @@
+import './About.css'
+export default function About(){return(<section className="about" id="about"><div className="about-content"><h2>About Us</h2><p>We are a creative team dedicated to delivering exceptional design and branding solutions that help businesses stand out.</p></div><div className="about-team"><h3>About Team</h3><p>Meet our talented professionals who bring innovation and expertise to every project.</p></div></section>)}
